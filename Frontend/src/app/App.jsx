@@ -46,14 +46,9 @@ function App() {
   useEffect(() => {
     if (!username) return;
 
-    providerRef.current = new SocketIOProvider(
-      "http://localhost:3000",
-      "monaco",
-      ydoc,
-      {
-        autoConnect: true,
-      },
-    );
+    providerRef.current = new SocketIOProvider("/", "monaco", ydoc, {
+      autoConnect: true,
+    });
 
     const provider = providerRef.current;
 
