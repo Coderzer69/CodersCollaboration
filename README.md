@@ -1,5 +1,12 @@
 # 🚀 Coders Collaboration
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-RealTime-black?logo=socketdotio)
+![Monaco Editor](https://img.shields.io/badge/Monaco-Editor-blue)
+![Yjs](https://img.shields.io/badge/Yjs-CRDT-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A real-time collaborative code editor that enables multiple developers to write and edit code together simultaneously. Built with **React**, **Monaco Editor**, **Yjs**, **Socket.IO**, and **Express**, the application provides live synchronization, presence awareness, and a modern coding environment.
 
 ## ✨ Features
