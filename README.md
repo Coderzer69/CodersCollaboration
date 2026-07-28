@@ -20,7 +20,7 @@ A real-time collaborative code editor that enables multiple developers to write 
 - 📱 Responsive and clean UI
 - 🚀 Fast frontend powered by Vite
 
-----
+-----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ A real-time collaborative code editor that enables multiple developers to write 
 - React
 - Vite
 - Tailwind CSS
-- Monaco Editor
+- Monaco Editor(for Code Editor)
 - Yjs
 - y-monaco
 - y-socket.io
