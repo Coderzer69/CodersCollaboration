@@ -20,7 +20,7 @@ A real-time collaborative code editor that enables multiple developers to write 
 - 📱 Responsive and clean UI
 - 🚀 Fast frontend powered by Vite
 
------
+----
 
 ## 🛠️ Tech Stack
 
